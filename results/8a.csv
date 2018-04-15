@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+name,varchar(25),NO,,NULL,
+GrossRevenue,"decimal(27,2)",YES,,NULL,
